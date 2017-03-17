@@ -1,0 +1,24 @@
+---
+ID: 8
+post_title: Current Project
+author: csulbstudent
+post_date: 2017-02-25 04:55:01
+post_excerpt: ""
+layout: page
+permalink: >
+  http://missionforthehomeless.josephpazhman.com/current/
+published: true
+---
+<span style="text-decoration: underline;"><strong>Intervening to help people in danger on the streets</strong></span>
+
+We help people find emergency care, and have benefited over the years by a continuing relationship with the professionals who staff Alameda County’s medical and social services: doctors, nurses and social workers at Highland Hospital, for instance. The team operating the city’s <a href="http://mhaac.org/need-help-now.html">Mobile Crises Unit for Mental Health</a> has also been invaluable in assessing and transporting the homeless in a crisis. <a href="http://www.stmaryscenter.org/">St. Mary’s Center</a> in West Oakland helps place the homeless in housing and provides a <a href="http://stmaryscenter.org/emergency-winter-shelter/">winter shelter</a> of their own. We often rely on the Oakland Police Department itself in an emergency situation. Other important resources include the <a href="http://www.thecil.org/">Center for Independent Living</a> a services and advocacy organization run by and for people with disabilities with offices in Oakland and Berkeley; and <a href="http://operationdignity.org/">Operation Dignity, Inc.</a> support services for veteran families, offering transitional and permanent housing as well as a mobile outreach team that is instrumental in helping the homeless vet in a crisis situation.
+
+Care continues for those struggling with mental and physical distress by assisting them into shelters and medical facilities like Highland Hospital and <a href="http://www.acmedctr.org/johngeorge.cfm">John George Psychiatric Pavilion</a>, a psychiatric emergency services department both for voluntary and involuntary  "5150" admissions with inpatient units for longer term psychiatric holds. Substance abuse programs like <a href="http://horizonservices.org/cherry-hill-detoxification-program-services/">Cherry Hill Sobering &amp; Detox Center</a> in nearby San Leandro are also helpful.
+
+<span style="text-decoration: underline;"><strong>Each person has unique needs</strong></span>
+
+Each person has unique needs, depending on their individual problem set, and we try to meet them. Many have mental problems or drug addictions, sometimes both. Tom, for instance, is a Vietnam vet who is bipolar and evicted three times; this makes it very difficult for him to find housing when a background check is performed. Unable to get off the streets he would periodically spiral into a deep depression and have to be hospitalized at John George Psychiatric Pavilion. We were able to find a room in a house where he stayed for five months, and then another where he stayed for two more months. His erratic behavior fueled by his occasional drug use and bipolar problems has made a stable living situation difficult for him to achieve. He has now moved to San Francisco and we haven’t heard from him in the past two months. Not every outcome is perfect, but at least we were able to get him off the streets, if only temporarily.
+
+Sandra is an ex-heroin addict whose prior convictions have made the housing application process difficult for her. But even more troubling, she was in a car accident several years ago that left one leg shorter than the other. She can walk but spends most of her time in a wheelchair. She receives a disability check but has been homeless on an off for the past several years. Using housing lists provided by the Center for Independent Living and Eastmont Mall-Alameda County Social Services we were recently able to find her an apartment, and we visit her several times a month to check on how she is doing.
+
+Recently, we helped a veteran in a wheelchair who has no legs just below the knees. We originally provided him with a tarp for the rains coming in the next few days, as he lived in a homeless camp by the freeway. It sometimes takes time to gain a person’s trust before they’ll allow you to help them. In our attempts to get him off the streets, we contacted Operation Dignity and eventually he agreed to go to the Veterans Administration in Palo Alto. Over the next few days, they were able to help him clean-up, gave him new clothes and placed him in a San Jose rehab center called Little Orchard. He told us he was determined to stay off the streets, and we hope he is successful.
