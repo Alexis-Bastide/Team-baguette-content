@@ -9,451 +9,452 @@ permalink: >
   http://missionforthehomeless.josephpazhman.com/
 published: true
 panels_data:
-  - 'a:3:{s:7:"widgets";a:5:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:43:"<div class="usual usage">[wds id="1"]</div>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58cc216e584da";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"52595009-2ba9-4dc0-ab86-9ab5f2e665ca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:6:{s:5:"title";s:30:"Nightly visits to the Homeless";s:4:"text";s:447:"<p>Mission for the Homeless is a 501 (c)(3) nonprofit charitable corporation. We distribute blankets, food, clothing and tents to the homeless seven nights a week in Oakland, California. We visit approximately 120 homeless people every night. Read about the lives of some of these people in the cover story of the August 6, 2014 issue of the <a href="http://www.eastbayexpress.com/general/flash/2014/08-06-2014/">East Bay Express</a>. </p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58cc20f3bc822";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"52595009-2ba9-4dc0-ab86-9ab5f2e665ca";s:5:"style";a:3:{s:7:"padding";s:23:"-20px -20px -20px -20px";s:18:"background_display";s:4:"tile";s:10:"font_color";s:7:"#000000";}}}i:2;a:6:{s:5:"title";s:22:"Plight of the Homeless";s:4:"text";s:502:"<p>The plight of the homeless in Oakland is becoming more evident as the economy has made it more difficult for those “fallen through the cracks”. Often stereotyped as annoying, categorized as worthless, the homeless easily become objects of neglect and abuse. If family, society and church remain uninterested and unconvinced as to the inherent dignity of these people, we continue to recognize them without judgment or condemnation.  The question that remains is how to address these issues.</p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58cc21af0c60f";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"52595009-2ba9-4dc0-ab86-9ab5f2e665ca";s:5:"style";a:2:{s:18:"background_display";s:4:"tile";s:10:"font_color";s:7:"#000000";}}}i:3;a:6:{s:5:"title";s:34:"Nightly Contact Since January 1999";s:4:"text";s:722:"<p>We visit homeless people on the street on a one to one basis. We know of no other shelter or homeless service in Oakland that attempts this type of outreach. The focus has always been providing basic necessities like food, blankets and warm clothing. One of our inspirations was a local organization called <a href="http://ebfnb.org/">Food Not Bombs</a> which provides a hearty hot meal, like lentils, served daily in People’s Park area of Berkeley. We ask local Oakland businesses and their patrons for donations; sometimes bakeries donate bread, and people have contributed clothing and blankets, sometimes even small bowls of food. We pack up the food, clothing and blankets and make them available that night.</p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58cc20e809fe1";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:3;s:9:"widget_id";s:36:"52595009-2ba9-4dc0-ab86-9ab5f2e665ca";s:5:"style";a:2:{s:18:"background_display";s:4:"tile";s:10:"font_color";s:7:"#000000";}}}i:4;a:6:{s:5:"title";s:88:"Providing Basic Necessities, Building Trust, and Offering One-on-One Personal Assistance";s:4:"text";s:414:"<p>What does it take to improve a life? Many lack money, housing, food and personal assistance. Very few programs exist in Oakland, and there are obstacles in accessing them. Since January of 1999, our outreach has been an ear to homeless people, treating them as individuals and gaining their trust. This makes them feel that there is someone in the world that cares about them and values them as individuals.</p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58cc21ad183af";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:4;s:9:"widget_id";s:36:"52595009-2ba9-4dc0-ab86-9ab5f2e665ca";s:5:"style";a:2:{s:18:"background_display";s:4:"tile";s:10:"font_color";s:7:"#000000";}}}}s:5:"grids";a:2:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}i:1;a:2:{s:5:"cells";i:2;s:5:"style";a:4:{s:13:"bottom_margin";s:5:"-30px";s:6:"gutter";s:4:"75px";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}s:10:"grid_cells";a:3:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}i:2;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}}}'
+  - 'a:3:{s:7:"widgets";a:5:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:43:"<div class="usual usage">[wds id="1"]</div>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58cc216e584da";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"52595009-2ba9-4dc0-ab86-9ab5f2e665ca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:6:{s:5:"title";s:30:"Nightly visits to the Homeless";s:4:"text";s:508:"<p><span style="color: #000000;">Mission for the Homeless is a 501 (c)(3) nonprofit charitable corporation. We distribute blankets, food, clothing and tents to the homeless seven nights a week in Oakland, California. We visit approximately 120 homeless people every night. Read about the lives of some of these people in the cover story of the August 6, 2014 issue of the <a style="color: #000000;" href="http://www.eastbayexpress.com/general/flash/2014/08-06-2014/">East Bay Express</a>. </span></p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58cc20f3bc822";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"52595009-2ba9-4dc0-ab86-9ab5f2e665ca";s:5:"style";a:4:{s:7:"padding";s:23:"-20px -20px -20px -20px";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";s:10:"font_color";s:7:"#000000";}}}i:2;a:6:{s:5:"title";s:22:"Plight of the Homeless";s:4:"text";s:539:"<p><span style="color: #000000;">The plight of the homeless in Oakland is becoming more evident as the economy has made it more difficult for those “fallen through the cracks”. Often stereotyped as annoying, categorized as worthless, the homeless easily become objects of neglect and abuse. If family, society and church remain uninterested and unconvinced as to the inherent dignity of these people, we continue to recognize them without judgment or condemnation.  The question that remains is how to address these issues.</span></p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58cc21af0c60f";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"52595009-2ba9-4dc0-ab86-9ab5f2e665ca";s:5:"style";a:3:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";s:10:"font_color";s:7:"#000000";}}}i:3;a:6:{s:5:"title";s:34:"Nightly Contact Since January 1999";s:4:"text";s:783:"<p><span style="color: #000000;">We visit homeless people on the street on a one to one basis. We know of no other shelter or homeless service in Oakland that attempts this type of outreach. The focus has always been providing basic necessities like food, blankets and warm clothing. One of our inspirations was a local organization called <a style="color: #000000;" href="http://ebfnb.org/">Food Not Bombs</a> which provides a hearty hot meal, like lentils, served daily in People’s Park area of Berkeley. We ask local Oakland businesses and their patrons for donations; sometimes bakeries donate bread, and people have contributed clothing and blankets, sometimes even small bowls of food. We pack up the food, clothing and blankets and make them available that night.</span></p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58cc20e809fe1";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:3;s:9:"widget_id";s:36:"52595009-2ba9-4dc0-ab86-9ab5f2e665ca";s:5:"style";a:3:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";s:10:"font_color";s:7:"#000000";}}}i:4;a:6:{s:5:"title";s:88:"Providing Basic Necessities, Building Trust, and Offering One-on-One Personal Assistance";s:4:"text";s:451:"<p><span style="color: #000000;">What does it take to improve a life? Many lack money, housing, food and personal assistance. Very few programs exist in Oakland, and there are obstacles in accessing them. Since January of 1999, our outreach has been an ear to homeless people, treating them as individuals and gaining their trust. This makes them feel that there is someone in the world that cares about them and values them as individuals.</span></p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58cc21ad183af";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:4;s:9:"widget_id";s:36:"52595009-2ba9-4dc0-ab86-9ab5f2e665ca";s:5:"style";a:3:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";s:10:"font_color";s:7:"#000000";}}}}s:5:"grids";a:2:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}i:1;a:2:{s:5:"cells";i:2;s:5:"style";a:3:{s:13:"bottom_margin";s:5:"-30px";s:6:"gutter";s:4:"75px";s:18:"background_display";s:4:"tile";}}}s:10:"grid_cells";a:3:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}i:2;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}}}'
 hefo_before:
   - "0"
 hefo_after:
   - "0"
 ---
 <style>
-.wds_bigplay_0,
-.wds_slideshow_image_0,
-.wds_slideshow_video_0 {
-display: block;
-}
-.wds_bulframe_0 {
-display: none; 
-background-image: url(''); 
-margin: 0px;  
-position: absolute;
-z-index: 3;
--webkit-transition: left 1s, right 1s;
-transition: left 1s, right 1s;
-width: 160px;
-height: 60px;
-}
-#wds_container1_0 #wds_container2_0 {
-text-align: center;
-margin: 0px 0;
-visibility: hidden;
-position: relative;      }
-#wds_container1_0 #wds_container2_0 .wds_slideshow_image_wrap_0,
-#wds_container1_0 #wds_container2_0 .wds_slideshow_image_wrap_0 * {
-box-sizing: border-box;
--moz-box-sizing: border-box;
--webkit-box-sizing: border-box;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_image_wrap_0 {
-background-color: rgba(0, 0, 0, 0.00);
-border-width: 0px;
-border-style: none;
-border-color: #FFFFFF;
-border-radius: ;
-border-collapse: collapse;
-display: inline-block;
-position: absolute;
-text-align: center;
-width: 100%;
-max-width: 800px;
-box-shadow: ;
-overflow: hidden;
-z-index: 0;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_image_0 {
-padding: 0 !important;
-margin: 0 !important;
-float: none !important;
-vertical-align: middle;
-background-position: center center;
-background-repeat: no-repeat;
-background-size: contain;
-width: 100%;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_image_container_0 {
-display: /*table*/block;
-position: absolute;
-text-align: center;
-none: 0px;
-vertical-align: middle;
-width: 100%;
-height: /*inherit*/100%;
-}
-@media only screen and (min-width: 0px) and (max-width: 320px) {
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
-height: 16px;
-width: 64px;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
-font-size: 12px;
-margin: 2px;
-width: 12px;
-height: 12px;
-}
-#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {  
-font-size: 20px;
-height: 20px;
-width: 20px;
-}
-#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
-#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
-height: 20px;
-font-size: 20px;
-width: 20px;
-}
-}
-@media only screen and (min-width: 321px) and (max-width: 480px) {
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
-height: 22px;
-width: 88px;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
-font-size: 18px;
-margin: 2px;
-width: 18px;
-height: 18px;
-}
-#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {  
-font-size: 30px;
-height: 30px;
-width: 30px;
-}
-#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
-#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
-height: 30px;
-font-size: 30px;
-width: 30px;
-}
-}
-@media only screen and (min-width: 481px) and (max-width: 640px) {
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
-height: 26px;
-width: 104px;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
-font-size: 20px;
-margin: 3px;
-width: 20px;
-height: 20px;
-}
-#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {  
-font-size: 40px;
-height: 40px;
-width: 40px;
-}
-#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
-#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
-height: 40px;
-font-size: 40px;
-width: 40px;
-}
-}
-@media only screen and (min-width: 641px) and (max-width: 768px) {
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
-height: 26px;
-width: 104px;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
-font-size: 20px;
-margin: 3px;
-width: 20px;
-height: 20px;
-}
-#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {  
-font-size: 40px;
-height: 40px;
-width: 40px;
-}
-#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
-#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
-height: 40px;
-font-size: 40px;
-width: 40px;
-}
-}
-@media only screen and (min-width: 769px) and (max-width: 800px) {
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
-height: 26px;
-width: 104px;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
-font-size: 20px;
-margin: 3px;
-width: 20px;
-height: 20px;
-}
-#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {  
-font-size: 40px;
-height: 40px;
-width: 40px;
-}
-#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
-#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
-height: 40px;
-font-size: 40px;
-width: 40px;
-}
-}
-@media only screen and (min-width: 801px) and (max-width: 1024px) {
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
-height: 26px;
-width: 104px;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
-font-size: 20px;
-margin: 3px;
-width: 20px;
-height: 20px;
-}
-#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {  
-font-size: 40px;
-height: 40px;
-width: 40px;
-}
-#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
-#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
-height: 40px;
-font-size: 40px;
-width: 40px;
-}
-}
-@media only screen and (min-width: 1025px) and (max-width: 1366px) {
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
-height: 26px;
-width: 104px;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
-font-size: 20px;
-margin: 3px;
-width: 20px;
-height: 20px;
-}
-#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {  
-font-size: 40px;
-height: 40px;
-width: 40px;
-}
-#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
-#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
-height: 40px;
-font-size: 40px;
-width: 40px;
-}
-}
-@media only screen and (min-width: 1367px) and (max-width: 1824px) {
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
-height: 26px;
-width: 104px;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
-font-size: 20px;
-margin: 3px;
-width: 20px;
-height: 20px;
-}
-#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {  
-font-size: 40px;
-height: 40px;
-width: 40px;
-}
-#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
-#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
-height: 40px;
-font-size: 40px;
-width: 40px;
-}
-}
-@media only screen and (min-width: 1825px) and (max-width: 3000px) {
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
-height: 26px;
-width: 104px;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
-font-size: 20px;
-margin: 3px;
-width: 20px;
-height: 20px;
-}
-#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {  
-font-size: 40px;
-height: 40px;
-width: 40px;
-}
-#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,
-#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {
-height: 40px;
-font-size: 40px;
-width: 40px;
-}
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_video_0 {
-padding: 0 !important;
-margin: 0 !important;
-float: none !important;
-width: 100%;
-vertical-align: middle;
-display: inline-block;
-}
-#wds_container1_0 #wds_container2_0 #wds_slideshow_play_pause_0 {  
-color: #FFFFFF;
-cursor: pointer;
-position: relative;
-z-index: 13;
-width: inherit;
-height: inherit;
-font-size: inherit;
-}
-#wds_container1_0 #wds_container2_0 #wds_slideshow_play_pause_0:hover {  
-color: #CCCCCC;
-cursor: pointer;
-}
-#wds_container1_0 #wds_container2_0 .wds_left-ico_0,
-#wds_container1_0 #wds_container2_0 .wds_right-ico_0 {
-background-color: rgba(255, 255, 255, 0.00);
-border-radius: 20px;
-border: 0px none #FFFFFF;
-border-collapse: separate;
-color: #FFFFFF;
-left: 0;
-top: 0;
--moz-box-sizing: content-box;
-box-sizing: content-box;
-cursor: pointer;
-line-height: 0;
-width: inherit;
-height: inherit;
-font-size: inherit;
-position: absolute;
-}
-#wds_container1_0 #wds_container2_0 .wds_left-ico_0 {
-left: -4000px;
-}
-#wds_container1_0 #wds_container2_0 .wds_right-ico_0 {
-left: 4000px;
-}
-#wds_container1_0 #wds_container2_0 #wds_slideshow_play_pause_0 {
-opacity: 0;
-filter: "Alpha(opacity=0)";
-}
-#wds_container1_0 #wds_container2_0 .wds_left-ico_0:hover,
-#wds_container1_0 #wds_container2_0 .wds_right-ico_0:hover {
-color: #CCCCCC;
-cursor: pointer;
-}
-#wds_container1_0 #wds_container2_0 .wds_none_selectable_0 {
--webkit-touch-callout: none;
--webkit-user-select: none;
--khtml-user-select: none;
--moz-user-select: none;
--ms-user-select: none;
-user-select: none;
-}
-#wds_container1_0 #wds_container2_0 .wds_slide_container_0 {
-display: table-cell;
-margin: 0 auto;
-position: absolute;
-vertical-align: middle;
-width: 100%;
-height: 100%;
-overflow: hidden;
-cursor: inherit;
-cursor: inherit;
-cursor: inherit;
-}
-#wds_container1_0 #wds_container2_0 .wds_slide_container_0:active {
-cursor: inherit;
-cursor: inherit;
-cursor: inherit;
-}
-#wds_container1_0 #wds_container2_0 .wds_slide_bg_0 {
-margin: 0 auto;
-width: /*inherit*/100%;
-height: /*inherit*/100%;
-}
-#wds_container1_0 #wds_container2_0 .wds_slider_0 {
-height: /*inherit*/100%;
-width: /*inherit*/100%;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_image_spun_0 {
-width: /*inherit*/100%;
-height: /*inherit*/100%;
-display: table-cell;
-filter: Alpha(opacity=100);
-opacity: 1;
-position: absolute;
-vertical-align: middle;
-z-index: 2;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_image_second_spun_0 {
-width: /*inherit*/100%;
-height: /*inherit*/100%;
-display: table-cell;
-filter: Alpha(opacity=0);
-opacity: 0;
-position: absolute;
-vertical-align: middle;
-z-index: 1;
-}
-#wds_container1_0 #wds_container2_0 .wds_grid_0 {
-display: none;
-height: 100%;
-overflow: hidden;
-position: absolute;
-width: 100%;
-}
-#wds_container1_0 #wds_container2_0 .wds_gridlet_0 {
-opacity: 1;
-filter: Alpha(opacity=100);
-position: absolute;
-}
-/* Dots.*/
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_container_0 {
-opacity: 1;
-filter: "Alpha(opacity=100)";
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_container_0 {
-display: block;
-overflow: hidden;
-position: absolute;
-width: 100%;
-bottom: 0;
-/*z-index: 17;*/
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {
-left: 0px;
-font-size: 0;
-margin: 0 auto;
-position: relative;
-z-index: 999;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {
-display: inline-block;
-position: relative;
-color: #FFFFFF;
-cursor: pointer;
-z-index: 17;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_active_0 {
-color: #FFFFFF;
-opacity: 1;
-filter: Alpha(opacity=100);
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_deactive_0 {
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_image_spun1_0 {
-display: table; 
-width: /*inherit*/100%; 
-height: /*inherit*/100%;
-}
-#wds_container1_0 #wds_container2_0 .wds_slideshow_image_spun2_0 {
-display: table-cell; 
-vertical-align: middle; 
-text-align: center;
-overflow: hidden;
-}
-#wds_container1_0 .wds_loading_img {
-background-image: url('http://missionforthehomeless.josephpazhman.com/wp-content/plugins/slider-wd/images/loading/0.gif');
-}
+.wds_bigplay_0,<br />
+.wds_slideshow_image_0,<br />
+.wds_slideshow_video_0 {<br />
+display: block;<br />
+}<br />
+.wds_bulframe_0 {<br />
+display: none;<br />
+background-image: url('');<br />
+margin: 0px;<br />
+position: absolute;<br />
+z-index: 3;<br />
+-webkit-transition: left 1s, right 1s;<br />
+transition: left 1s, right 1s;<br />
+width: 160px;<br />
+height: 60px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 {<br />
+text-align: center;<br />
+margin: 0px 0;<br />
+visibility: hidden;<br />
+position: relative;      }<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_wrap_0,<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_wrap_0 * {<br />
+box-sizing: border-box;<br />
+-moz-box-sizing: border-box;<br />
+-webkit-box-sizing: border-box;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_wrap_0 {<br />
+background-color: rgba(0, 0, 0, 0.00);<br />
+border-width: 0px;<br />
+border-style: none;<br />
+border-color: #FFFFFF;<br />
+border-radius: ;<br />
+border-collapse: collapse;<br />
+display: inline-block;<br />
+position: absolute;<br />
+text-align: center;<br />
+width: 100%;<br />
+max-width: 800px;<br />
+box-shadow: ;<br />
+overflow: hidden;<br />
+z-index: 0;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_0 {<br />
+padding: 0 !important;<br />
+margin: 0 !important;<br />
+float: none !important;<br />
+vertical-align: middle;<br />
+background-position: center center;<br />
+background-repeat: no-repeat;<br />
+background-size: contain;<br />
+width: 100%;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_container_0 {<br />
+display: /*table*/block;<br />
+position: absolute;<br />
+text-align: center;<br />
+none: 0px;<br />
+vertical-align: middle;<br />
+width: 100%;<br />
+height: /*inherit*/100%;<br />
+}<br />
+@media only screen and (min-width: 0px) and (max-width: 320px) {<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {<br />
+height: 16px;<br />
+width: 64px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {<br />
+font-size: 12px;<br />
+margin: 2px;<br />
+width: 12px;<br />
+height: 12px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {<br />
+font-size: 20px;<br />
+height: 20px;<br />
+width: 20px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,<br />
+#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {<br />
+height: 20px;<br />
+font-size: 20px;<br />
+width: 20px;<br />
+}<br />
+}<br />
+@media only screen and (min-width: 321px) and (max-width: 480px) {<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {<br />
+height: 22px;<br />
+width: 88px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {<br />
+font-size: 18px;<br />
+margin: 2px;<br />
+width: 18px;<br />
+height: 18px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {<br />
+font-size: 30px;<br />
+height: 30px;<br />
+width: 30px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,<br />
+#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {<br />
+height: 30px;<br />
+font-size: 30px;<br />
+width: 30px;<br />
+}<br />
+}<br />
+@media only screen and (min-width: 481px) and (max-width: 640px) {<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {<br />
+height: 26px;<br />
+width: 104px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {<br />
+font-size: 20px;<br />
+margin: 3px;<br />
+width: 20px;<br />
+height: 20px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {<br />
+font-size: 40px;<br />
+height: 40px;<br />
+width: 40px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,<br />
+#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {<br />
+height: 40px;<br />
+font-size: 40px;<br />
+width: 40px;<br />
+}<br />
+}<br />
+@media only screen and (min-width: 641px) and (max-width: 768px) {<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {<br />
+height: 26px;<br />
+width: 104px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {<br />
+font-size: 20px;<br />
+margin: 3px;<br />
+width: 20px;<br />
+height: 20px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {<br />
+font-size: 40px;<br />
+height: 40px;<br />
+width: 40px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,<br />
+#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {<br />
+height: 40px;<br />
+font-size: 40px;<br />
+width: 40px;<br />
+}<br />
+}<br />
+@media only screen and (min-width: 769px) and (max-width: 800px) {<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {<br />
+height: 26px;<br />
+width: 104px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {<br />
+font-size: 20px;<br />
+margin: 3px;<br />
+width: 20px;<br />
+height: 20px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {<br />
+font-size: 40px;<br />
+height: 40px;<br />
+width: 40px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,<br />
+#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {<br />
+height: 40px;<br />
+font-size: 40px;<br />
+width: 40px;<br />
+}<br />
+}<br />
+@media only screen and (min-width: 801px) and (max-width: 1024px) {<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {<br />
+height: 26px;<br />
+width: 104px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {<br />
+font-size: 20px;<br />
+margin: 3px;<br />
+width: 20px;<br />
+height: 20px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {<br />
+font-size: 40px;<br />
+height: 40px;<br />
+width: 40px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,<br />
+#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {<br />
+height: 40px;<br />
+font-size: 40px;<br />
+width: 40px;<br />
+}<br />
+}<br />
+@media only screen and (min-width: 1025px) and (max-width: 1366px) {<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {<br />
+height: 26px;<br />
+width: 104px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {<br />
+font-size: 20px;<br />
+margin: 3px;<br />
+width: 20px;<br />
+height: 20px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {<br />
+font-size: 40px;<br />
+height: 40px;<br />
+width: 40px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,<br />
+#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {<br />
+height: 40px;<br />
+font-size: 40px;<br />
+width: 40px;<br />
+}<br />
+}<br />
+@media only screen and (min-width: 1367px) and (max-width: 1824px) {<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {<br />
+height: 26px;<br />
+width: 104px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {<br />
+font-size: 20px;<br />
+margin: 3px;<br />
+width: 20px;<br />
+height: 20px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {<br />
+font-size: 40px;<br />
+height: 40px;<br />
+width: 40px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,<br />
+#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {<br />
+height: 40px;<br />
+font-size: 40px;<br />
+width: 40px;<br />
+}<br />
+}<br />
+@media only screen and (min-width: 1825px) and (max-width: 3000px) {<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {<br />
+height: 26px;<br />
+width: 104px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {<br />
+font-size: 20px;<br />
+margin: 3px;<br />
+width: 20px;<br />
+height: 20px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {<br />
+font-size: 40px;<br />
+height: 40px;<br />
+width: 40px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_left_btn_cont,<br />
+#wds_container1_0 #wds_container2_0 .wds_right_btn_cont {<br />
+height: 40px;<br />
+font-size: 40px;<br />
+width: 40px;<br />
+}<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_video_0 {<br />
+padding: 0 !important;<br />
+margin: 0 !important;<br />
+float: none !important;<br />
+width: 100%;<br />
+vertical-align: middle;<br />
+display: inline-block;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 #wds_slideshow_play_pause_0 {<br />
+color: #FFFFFF;<br />
+cursor: pointer;<br />
+position: relative;<br />
+z-index: 13;<br />
+width: inherit;<br />
+height: inherit;<br />
+font-size: inherit;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 #wds_slideshow_play_pause_0:hover {<br />
+color: #CCCCCC;<br />
+cursor: pointer;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_left-ico_0,<br />
+#wds_container1_0 #wds_container2_0 .wds_right-ico_0 {<br />
+background-color: rgba(255, 255, 255, 0.00);<br />
+border-radius: 20px;<br />
+border: 0px none #FFFFFF;<br />
+border-collapse: separate;<br />
+color: #FFFFFF;<br />
+left: 0;<br />
+top: 0;<br />
+-moz-box-sizing: content-box;<br />
+box-sizing: content-box;<br />
+cursor: pointer;<br />
+line-height: 0;<br />
+width: inherit;<br />
+height: inherit;<br />
+font-size: inherit;<br />
+position: absolute;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_left-ico_0 {<br />
+left: -4000px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_right-ico_0 {<br />
+left: 4000px;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 #wds_slideshow_play_pause_0 {<br />
+opacity: 0;<br />
+filter: "Alpha(opacity=0)";<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_left-ico_0:hover,<br />
+#wds_container1_0 #wds_container2_0 .wds_right-ico_0:hover {<br />
+color: #CCCCCC;<br />
+cursor: pointer;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_none_selectable_0 {<br />
+-webkit-touch-callout: none;<br />
+-webkit-user-select: none;<br />
+-khtml-user-select: none;<br />
+-moz-user-select: none;<br />
+-ms-user-select: none;<br />
+user-select: none;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slide_container_0 {<br />
+display: table-cell;<br />
+margin: 0 auto;<br />
+position: absolute;<br />
+vertical-align: middle;<br />
+width: 100%;<br />
+height: 100%;<br />
+overflow: hidden;<br />
+cursor: inherit;<br />
+cursor: inherit;<br />
+cursor: inherit;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slide_container_0:active {<br />
+cursor: inherit;<br />
+cursor: inherit;<br />
+cursor: inherit;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slide_bg_0 {<br />
+margin: 0 auto;<br />
+width: /*inherit*/100%;<br />
+height: /*inherit*/100%;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slider_0 {<br />
+height: /*inherit*/100%;<br />
+width: /*inherit*/100%;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_spun_0 {<br />
+width: /*inherit*/100%;<br />
+height: /*inherit*/100%;<br />
+display: table-cell;<br />
+filter: Alpha(opacity=100);<br />
+opacity: 1;<br />
+position: absolute;<br />
+vertical-align: middle;<br />
+z-index: 2;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_second_spun_0 {<br />
+width: /*inherit*/100%;<br />
+height: /*inherit*/100%;<br />
+display: table-cell;<br />
+filter: Alpha(opacity=0);<br />
+opacity: 0;<br />
+position: absolute;<br />
+vertical-align: middle;<br />
+z-index: 1;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_grid_0 {<br />
+display: none;<br />
+height: 100%;<br />
+overflow: hidden;<br />
+position: absolute;<br />
+width: 100%;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_gridlet_0 {<br />
+opacity: 1;<br />
+filter: Alpha(opacity=100);<br />
+position: absolute;<br />
+}<br />
+/* Dots.*/<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_container_0 {<br />
+opacity: 1;<br />
+filter: "Alpha(opacity=100)";<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_container_0 {<br />
+display: block;<br />
+overflow: hidden;<br />
+position: absolute;<br />
+width: 100%;<br />
+bottom: 0;<br />
+/*z-index: 17;*/<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {<br />
+left: 0px;<br />
+font-size: 0;<br />
+margin: 0 auto;<br />
+position: relative;<br />
+z-index: 999;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {<br />
+display: inline-block;<br />
+position: relative;<br />
+color: #FFFFFF;<br />
+cursor: pointer;<br />
+z-index: 17;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_active_0 {<br />
+color: #FFFFFF;<br />
+opacity: 1;<br />
+filter: Alpha(opacity=100);<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_dots_deactive_0 {<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_spun1_0 {<br />
+display: table;<br />
+width: /*inherit*/100%;<br />
+height: /*inherit*/100%;<br />
+}<br />
+#wds_container1_0 #wds_container2_0 .wds_slideshow_image_spun2_0 {<br />
+display: table-cell;<br />
+vertical-align: middle;<br />
+text-align: center;<br />
+overflow: hidden;<br />
+}<br />
+#wds_container1_0 .wds_loading_img {<br />
+background-image: url('http://missionforthehomeless.josephpazhman.com/wp-content/plugins/slider-wd/images/loading/0.gif');<br />
+}<br />
 </style>
+
 <script>
 var wds_global_btn_0 = "right";
 var wds_data_0 = [];
@@ -518,57 +519,57 @@ wds_data_0["3"]["bg_fit"] = "contain";
 wds_data_0["3"]["bull_position"] = "bottom";
 wds_data_0["3"]["image_thumb_url"] = "http://missionforthehomeless.josephpazhman.com/wp-content/uploads/2017/02/946d94131c1aacdba177e5cb60bfe4e8-150x150.jpg";
 </script>
-<i id="wds_dots_0_0" class="wds_slideshow_dots_0 fa fa-square wds_slideshow_dots_active_0" onclick="wds_change_image_0(parseInt(jQuery('#wds_current_image_key_0').val()), '0', wds_data_0)">
+<i id="wds_dots_0_0" class="wds_slideshow_dots_0 fa fa-square wds_slideshow_dots_active_0">
 </i>
-<i id="wds_dots_1_0" class="wds_slideshow_dots_0 fa fa-square-o wds_slideshow_dots_deactive_0" onclick="wds_change_image_0(parseInt(jQuery('#wds_current_image_key_0').val()), '1', wds_data_0)">
+<i id="wds_dots_1_0" class="wds_slideshow_dots_0 fa fa-square-o wds_slideshow_dots_deactive_0">
 </i>
-<i id="wds_dots_2_0" class="wds_slideshow_dots_0 fa fa-square-o wds_slideshow_dots_deactive_0" onclick="wds_change_image_0(parseInt(jQuery('#wds_current_image_key_0').val()), '2', wds_data_0)">
+<i id="wds_dots_2_0" class="wds_slideshow_dots_0 fa fa-square-o wds_slideshow_dots_deactive_0">
 </i>
-<i id="wds_dots_3_0" class="wds_slideshow_dots_0 fa fa-square-o wds_slideshow_dots_deactive_0" onclick="wds_change_image_0(parseInt(jQuery('#wds_current_image_key_0').val()), '3', wds_data_0)">
+<i id="wds_dots_3_0" class="wds_slideshow_dots_0 fa fa-square-o wds_slideshow_dots_deactive_0">
 </i>
-<span class="wds_slideshow_image_spun_0" id="wds_image_id_0_1">
+<span id="wds_image_id_0_1" class="wds_slideshow_image_spun_0">
 <span class="wds_slideshow_image_spun1_0">
 <span class="wds_slideshow_image_spun2_0">
-<span img_id="wds_slideshow_image_0" class="wds_slideshow_image_0" onclick="" style="background-image: url('http://missionforthehomeless.josephpazhman.com/wp-content/uploads/2017/03/youngboy.jpg');">
+<span class="wds_slideshow_image_0" style="background-image: url('http://missionforthehomeless.josephpazhman.com/wp-content/uploads/2017/03/youngboy.jpg');">
 </span>
 </span>
 </span>
 </span>
-<span class="wds_slideshow_image_second_spun_0" id="wds_image_id_0_2">
+<span id="wds_image_id_0_2" class="wds_slideshow_image_second_spun_0">
 <span class="wds_slideshow_image_spun1_0">
 <span class="wds_slideshow_image_spun2_0">
-<span img_id="wds_slideshow_image_second_0" class="wds_slideshow_image_0" onclick="" style="">
+<span class="wds_slideshow_image_0">
 </span>
 </span>
 </span>
 </span>
-<span class="wds_slideshow_image_second_spun_0" id="wds_image_id_0_3">
+<span id="wds_image_id_0_3" class="wds_slideshow_image_second_spun_0">
 <span class="wds_slideshow_image_spun1_0">
 <span class="wds_slideshow_image_spun2_0">
-<span img_id="wds_slideshow_image_second_0" class="wds_slideshow_image_0" onclick="" style="">
+<span class="wds_slideshow_image_0">
 </span>
 </span>
 </span>
 </span>
-<span class="wds_slideshow_image_second_spun_0" id="wds_image_id_0_4">
+<span id="wds_image_id_0_4" class="wds_slideshow_image_second_spun_0">
 <span class="wds_slideshow_image_spun1_0">
 <span class="wds_slideshow_image_spun2_0">
-<span img_id="wds_slideshow_image_second_0" class="wds_slideshow_image_0" onclick="" style="">
+<span class="wds_slideshow_image_0">
 </span>
 </span>
 </span>
 </span>
-<input type="hidden" id="wds_current_image_key_0" value="0">
+<input id="wds_current_image_key_0" type="hidden" value="0" />
 <span class="wds_btn_cont wds_contTableCell" style="position: relative; text-align: left;">
 <span class="wds_left_btn_cont">
-<span class="wds_left-ico_0" onclick="wds_change_image_0(parseInt(jQuery('#wds_current_image_key_0').val()), (parseInt(jQuery('#wds_current_image_key_0').val()) - wds_iterator_0()) >= 0 ? (parseInt(jQuery('#wds_current_image_key_0').val()) - wds_iterator_0()) % wds_data_0.length : wds_data_0.length - 1, wds_data_0, false, 'left'); return false;">
+<span class="wds_left-ico_0">
 <i class="fa fa-angle-left"></i>
 </span>
 </span>
 </span>
 <span class="wds_btn_cont wds_contTableCell" style="position: relative; text-align: right;">
 <span class="wds_right_btn_cont">
-<span class="wds_right-ico_0" onclick="wds_change_image_0(parseInt(jQuery('#wds_current_image_key_0').val()), (parseInt(jQuery('#wds_current_image_key_0').val()) + wds_iterator_0()) % wds_data_0.length, wds_data_0, false, 'right'); return false;">
+<span class="wds_right-ico_0">
 <i class="fa fa-angle-right"></i>
 </span>
 </span>
@@ -577,111 +578,14 @@ wds_data_0["3"]["image_thumb_url"] = "http://missionforthehomeless.josephpazhman
 var wds_global_btn_0 = "right";
 var wds_trans_in_progress_0 = false;
 var wds_transition_duration_0 = 800;
-if (5 < 4) {
-if (5 != 0) {
-wds_transition_duration_0 = (5 * 1000) / 4;
-}
-}
-var wds_playInterval_0;
-var progress = 0;
-var bottom_right_deggree_0;
-var bottom_left_deggree_0;
-var top_left_deggree_0;
-var curent_time_deggree_0 = 0;
-var circle_timer_animate_0;
-function circle_timer_0(angle) {
-circle_timer_animate_0 = jQuery({deg: angle}).animate({deg: 360}, {
-duration: 5000,
-step: function(now) {
-curent_time_deggree_0 = now;
-if (now >= 0) {
-if (now < 271) {
-jQuery('#top_right_0').css({
-'-moz-transform':'rotate('+now+'deg)',
-'-webkit-transform':'rotate('+now+'deg)',
-'-o-transform':'rotate('+now+'deg)',
-'-ms-transform':'rotate('+now+'deg)',
-'transform':'rotate('+now+'deg)',
-'-webkit-transform-origin': 'left bottom',
-'-ms-transform-origin': 'left bottom',
-'-moz-transform-origin': 'left bottom',
-'transform-origin': 'left bottom'
-});
-}
-}
-if (now >= 90) {
-if (now < 271) {
-bottom_right_deggree_0 = now - 90;
-jQuery('#bottom_right_0').css({
-'-moz-transform':'rotate('+bottom_right_deggree_0 +'deg)',
-'-webkit-transform':'rotate('+bottom_right_deggree_0 +'deg)',
-'-o-transform':'rotate('+bottom_right_deggree_0 +'deg)',
-'-ms-transform':'rotate('+bottom_right_deggree_0 +'deg)',
-'transform':'rotate('+bottom_right_deggree_0 +'deg)',
-'-webkit-transform-origin': 'left top',
-'-ms-transform-origin': 'left top',
-'-moz-transform-origin': 'left top',
-'transform-origin': 'left top'
-});
-}
-}
-if (now >= 180) {
-if (now < 361) {
-bottom_left_deggree_0 = now - 180;
-jQuery('#bottom_left_0').css({
-'-moz-transform':'rotate('+bottom_left_deggree_0 +'deg)',
-'-webkit-transform':'rotate('+bottom_left_deggree_0 +'deg)',
-'-o-transform':'rotate('+bottom_left_deggree_0 +'deg)',
-'-ms-transform':'rotate('+bottom_left_deggree_0 +'deg)',
-'transform':'rotate('+bottom_left_deggree_0 +'deg)',
-'-webkit-transform-origin': 'right top',
-'-ms-transform-origin': 'right top',
-'-moz-transform-origin': 'right top',
-'transform-origin': 'right top'
-});
-}
-}
-if (now >= 270) {
-if (now < 361) {
-top_left_deggree_0  = now - 270;
-jQuery('#top_left_0').css({
-'-moz-transform':'rotate('+top_left_deggree_0 +'deg)',
-'-webkit-transform':'rotate('+top_left_deggree_0 +'deg)',
-'-o-transform':'rotate('+top_left_deggree_0 +'deg)',
-'-ms-transform':'rotate('+top_left_deggree_0 +'deg)',
-'transform':'rotate('+top_left_deggree_0 +'deg)',
-'-webkit-transform-origin': 'right bottom',
-'-ms-transform-origin': 'right bottom',
-'-moz-transform-origin': 'right bottom',
-'transform-origin': 'right bottom'
-});
-}
-}
-}
-});
-}
-/* Stop autoplay.*/
-window.clearInterval(wds_playInterval_0);
-var wds_current_key_0 = '0';
-var wds_current_filmstrip_pos_0 = 0;
-function wds_move_dots_0() {
-var image_left = jQuery(".wds_slideshow_dots_active_0").position().left;
-var image_right = jQuery(".wds_slideshow_dots_active_0").position().left + jQuery(".wds_slideshow_dots_active_0").outerWidth(true);
-var wds_dots_width = jQuery(".wds_slideshow_dots_container_0").outerWidth(true);
-var wds_dots_thumbnails_width = jQuery(".wds_slideshow_dots_thumbnails_0").outerWidth(true);
-var long_filmstrip_cont_left = jQuery(".wds_slideshow_dots_thumbnails_0").position().left;
-var long_filmstrip_cont_right = Math.abs(jQuery(".wds_slideshow_dots_thumbnails_0").position().left) + wds_dots_width;
-if (wds_dots_width > wds_dots_thumbnails_width) {
+if (5 < 4) { if (5 != 0) { wds_transition_duration_0 = (5 * 1000) / 4; } } var wds_playInterval_0; var progress = 0; var bottom_right_deggree_0; var bottom_left_deggree_0; var top_left_deggree_0; var curent_time_deggree_0 = 0; var circle_timer_animate_0; function circle_timer_0(angle) { circle_timer_animate_0 = jQuery({deg: angle}).animate({deg: 360}, { duration: 5000, step: function(now) { curent_time_deggree_0 = now; if (now >= 0) {
+if (now < 271) { jQuery('#top_right_0').css({ '-moz-transform':'rotate('+now+'deg)', '-webkit-transform':'rotate('+now+'deg)', '-o-transform':'rotate('+now+'deg)', '-ms-transform':'rotate('+now+'deg)', 'transform':'rotate('+now+'deg)', '-webkit-transform-origin': 'left bottom', '-ms-transform-origin': 'left bottom', '-moz-transform-origin': 'left bottom', 'transform-origin': 'left bottom' }); } } if (now >= 90) {
+if (now < 271) { bottom_right_deggree_0 = now - 90; jQuery('#bottom_right_0').css({ '-moz-transform':'rotate('+bottom_right_deggree_0 +'deg)', '-webkit-transform':'rotate('+bottom_right_deggree_0 +'deg)', '-o-transform':'rotate('+bottom_right_deggree_0 +'deg)', '-ms-transform':'rotate('+bottom_right_deggree_0 +'deg)', 'transform':'rotate('+bottom_right_deggree_0 +'deg)', '-webkit-transform-origin': 'left top', '-ms-transform-origin': 'left top', '-moz-transform-origin': 'left top', 'transform-origin': 'left top' }); } } if (now >= 180) {
+if (now < 361) { bottom_left_deggree_0 = now - 180; jQuery('#bottom_left_0').css({ '-moz-transform':'rotate('+bottom_left_deggree_0 +'deg)', '-webkit-transform':'rotate('+bottom_left_deggree_0 +'deg)', '-o-transform':'rotate('+bottom_left_deggree_0 +'deg)', '-ms-transform':'rotate('+bottom_left_deggree_0 +'deg)', 'transform':'rotate('+bottom_left_deggree_0 +'deg)', '-webkit-transform-origin': 'right top', '-ms-transform-origin': 'right top', '-moz-transform-origin': 'right top', 'transform-origin': 'right top' }); } } if (now >= 270) {
+if (now < 361) { top_left_deggree_0 = now - 270; jQuery('#top_left_0').css({ '-moz-transform':'rotate('+top_left_deggree_0 +'deg)', '-webkit-transform':'rotate('+top_left_deggree_0 +'deg)', '-o-transform':'rotate('+top_left_deggree_0 +'deg)', '-ms-transform':'rotate('+top_left_deggree_0 +'deg)', 'transform':'rotate('+top_left_deggree_0 +'deg)', '-webkit-transform-origin': 'right bottom', '-ms-transform-origin': 'right bottom', '-moz-transform-origin': 'right bottom', 'transform-origin': 'right bottom' }); } } } }); } /* Stop autoplay.*/ window.clearInterval(wds_playInterval_0); var wds_current_key_0 = '0'; var wds_current_filmstrip_pos_0 = 0; function wds_move_dots_0() { var image_left = jQuery(".wds_slideshow_dots_active_0").position().left; var image_right = jQuery(".wds_slideshow_dots_active_0").position().left + jQuery(".wds_slideshow_dots_active_0").outerWidth(true); var wds_dots_width = jQuery(".wds_slideshow_dots_container_0").outerWidth(true); var wds_dots_thumbnails_width = jQuery(".wds_slideshow_dots_thumbnails_0").outerWidth(true); var long_filmstrip_cont_left = jQuery(".wds_slideshow_dots_thumbnails_0").position().left; var long_filmstrip_cont_right = Math.abs(jQuery(".wds_slideshow_dots_thumbnails_0").position().left) + wds_dots_width; if (wds_dots_width > wds_dots_thumbnails_width) {
 return;
 }
-if (image_left < Math.abs(long_filmstrip_cont_left)) {
-jQuery(".wds_slideshow_dots_thumbnails_0").animate({
-left: -image_left
-}, {
-duration: 500
-});
-}
-else if (image_right > long_filmstrip_cont_right) {
+if (image_left < Math.abs(long_filmstrip_cont_left)) { jQuery(".wds_slideshow_dots_thumbnails_0").animate({ left: -image_left }, { duration: 500 }); } else if (image_right > long_filmstrip_cont_right) {
 jQuery(".wds_slideshow_dots_thumbnails_0").animate({
 left: -(image_right - wds_dots_width)
 }, {
@@ -779,22 +683,13 @@ tx = tx === 'min-auto' ? - contWidth : tx;
 ty = ty === 'auto' ? contHeight : ty;
 ty = ty === 'min-auto' ? - contHeight : ty;
 /* Loop through cols*/
-for (var i = 0; i < cols; i++) {
-var topDist = 0,
-img_topDst = (jQuery(".wds_slide_bg_0").height() - cur_img.height()) / 2,
-newColWidth = colWidth;
-/* If imgWidth (px) does not divide cleanly into the specified number of cols, adjust individual col widths to create correct total.*/
-if (colRemainder > 0) {
+for (var i = 0; i < cols; i++) { var topDist = 0, img_topDst = (jQuery(".wds_slide_bg_0").height() - cur_img.height()) / 2, newColWidth = colWidth; /* If imgWidth (px) does not divide cleanly into the specified number of cols, adjust individual col widths to create correct total.*/ if (colRemainder > 0) {
 var add = colRemainder >= colAdd ? colAdd : colRemainder;
 newColWidth += add;
 colRemainder -= add;
 }
 /* Nested loop to create row gridlets for each col.*/
-for (var j = 0; j < rows; j++)  {
-var newRowHeight = rowHeight,
-newRowRemainder = rowRemainder;
-/* If contHeight (px) does not divide cleanly into the specified number of rows, adjust individual row heights to create correct total.*/
-if (newRowRemainder > 0) {
+for (var j = 0; j < rows; j++) { var newRowHeight = rowHeight, newRowRemainder = rowRemainder; /* If contHeight (px) does not divide cleanly into the specified number of rows, adjust individual row heights to create correct total.*/ if (newRowRemainder > 0) {
 add = newRowRemainder >= rowAdd ? rowAdd : rowRemainder;
 newRowHeight += add;
 newRowRemainder -= add;
@@ -1155,16 +1050,7 @@ jQuery("#wds_slideshow_play_pause_0").css({display: ''});
 wds_window_fixed_size0(next_image_class);
 }
 function wds_resize_slider_0() {
-var full_width = (jQuery(window).width() <= parseInt(0) || 1) ? 1 : 0;
-wds_glb_margin_0 = parseInt('0');
-if ('style' == 'text') {
-wds_set_text_dots_cont(0);
-}
-var slide_orig_width = 800;
-var slide_orig_height = 300;
-/* var slide_width = jQuery("#wds_container1_0").parent().width(); */
-var slide_width = wds_get_overall_parent(jQuery("#wds_container1_0"));
-if (slide_width > slide_orig_width) {
+var full_width = (jQuery(window).width() <= parseInt(0) || 1) ? 1 : 0; wds_glb_margin_0 = parseInt('0'); if ('style' == 'text') { wds_set_text_dots_cont(0); } var slide_orig_width = 800; var slide_orig_height = 300; /* var slide_width = jQuery("#wds_container1_0").parent().width(); */ var slide_width = wds_get_overall_parent(jQuery("#wds_container1_0")); if (slide_width > slide_orig_width) {
 slide_width = slide_orig_width;
 }
 var ratio = slide_width / (slide_orig_width + 2 * wds_glb_margin_0);
@@ -1359,59 +1245,7 @@ pos_retion_height = "0%";
 }
 fixed_pos = offset - scrtop - window_height / 2 + sliderheight / 2;
 jQuery(cont + ".wds_slideshow_image_0").css({"background-position": "50% " + "calc(50% - " + fixed_pos + "px)"});
-if (scrtop < offset + sliderheight) {
-if ('' == true) {
-jQuery(cont + ".wds_slideshow_image_0").css({"background-position": "" + pos_retion_height + " " + "calc(50% - " + fixed_pos + "px)"});
-}
-}
-}
-function wds_ready_0() {
-if ('style' == 'text') {
-wds_set_text_dots_cont(0);
-}
-jQuery(".wds_slideshow_image_0 span, .wds_slideshow_image_0 i").each(function () {
-jQuery(this).attr("wds_fpaddingl", jQuery(this).css("paddingLeft"));
-jQuery(this).attr("wds_fpaddingr", jQuery(this).css("paddingRight"));
-jQuery(this).attr("wds_fpaddingt", jQuery(this).css("paddingTop"));
-jQuery(this).attr("wds_fpaddingb", jQuery(this).css("paddingBottom"));
-});
-if (4000) {
-jQuery("#wds_container2_0").hover(function () {
-jQuery(".wds_right-ico_0").animate({left: 0}, 700, "swing");
-jQuery(".wds_left-ico_0").animate({left: 0}, 700, "swing");
-jQuery("#wds_slideshow_play_pause_0").animate({opacity: 1, filter: "Alpha(opacity=100)"}, 700, "swing");
-}, function () {
-jQuery(".wds_right-ico_0").css({left: 4000});
-jQuery(".wds_left-ico_0").css({left: -4000});
-jQuery("#wds_slideshow_play_pause_0").css({opacity: 0, filter: "Alpha(opacity=0)"});
-});
-}
-if (!1) {
-jQuery("#wds_container2_0").hover(function () {
-jQuery(".wds_slideshow_dots_container_0").animate({opacity: 1, filter: "Alpha(opacity=100)"}, 700, "swing");
-}, function () {
-jQuery(".wds_slideshow_dots_container_0").css({opacity: 0, filter: "Alpha(opacity=0)"});
-});
-}
-wds_resize_slider_0();
-jQuery("#wds_container2_0").css({visibility: 'visible'});
-jQuery(".wds_loading").hide();
-var isMobile = (/android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase()));
-if (isMobile) {
-if (1) {
-wds_swipe();
-}
-}
-else {
-if (0) {
-wds_swipe();
-}
-}
-function wds_swipe() {
-if (typeof jQuery().swiperight !== 'undefined') {
-if (jQuery.isFunction(jQuery().swiperight)) {
-jQuery('#wds_container1_0').swiperight(function () {
-wds_change_image_0(parseInt(jQuery('#wds_current_image_key_0').val()), (parseInt(jQuery('#wds_current_image_key_0').val()) - wds_iterator_0()) >= 0 ? (parseInt(jQuery('#wds_current_image_key_0').val()) - wds_iterator_0()) % wds_data_0.length : wds_data_0.length - 1, wds_data_0, false, "left");
+if (scrtop < offset + sliderheight) { if ('' == true) { jQuery(cont + ".wds_slideshow_image_0").css({"background-position": "" + pos_retion_height + " " + "calc(50% - " + fixed_pos + "px)"}); } } } function wds_ready_0() { if ('style' == 'text') { wds_set_text_dots_cont(0); } jQuery(".wds_slideshow_image_0 span, .wds_slideshow_image_0 i").each(function () { jQuery(this).attr("wds_fpaddingl", jQuery(this).css("paddingLeft")); jQuery(this).attr("wds_fpaddingr", jQuery(this).css("paddingRight")); jQuery(this).attr("wds_fpaddingt", jQuery(this).css("paddingTop")); jQuery(this).attr("wds_fpaddingb", jQuery(this).css("paddingBottom")); }); if (4000) { jQuery("#wds_container2_0").hover(function () { jQuery(".wds_right-ico_0").animate({left: 0}, 700, "swing"); jQuery(".wds_left-ico_0").animate({left: 0}, 700, "swing"); jQuery("#wds_slideshow_play_pause_0").animate({opacity: 1, filter: "Alpha(opacity=100)"}, 700, "swing"); }, function () { jQuery(".wds_right-ico_0").css({left: 4000}); jQuery(".wds_left-ico_0").css({left: -4000}); jQuery("#wds_slideshow_play_pause_0").css({opacity: 0, filter: "Alpha(opacity=0)"}); }); } if (!1) { jQuery("#wds_container2_0").hover(function () { jQuery(".wds_slideshow_dots_container_0").animate({opacity: 1, filter: "Alpha(opacity=100)"}, 700, "swing"); }, function () { jQuery(".wds_slideshow_dots_container_0").css({opacity: 0, filter: "Alpha(opacity=0)"}); }); } wds_resize_slider_0(); jQuery("#wds_container2_0").css({visibility: 'visible'}); jQuery(".wds_loading").hide(); var isMobile = (/android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase())); if (isMobile) { if (1) { wds_swipe(); } } else { if (0) { wds_swipe(); } } function wds_swipe() { if (typeof jQuery().swiperight !== 'undefined') { if (jQuery.isFunction(jQuery().swiperight)) { jQuery('#wds_container1_0').swiperight(function () { wds_change_image_0(parseInt(jQuery('#wds_current_image_key_0').val()), (parseInt(jQuery('#wds_current_image_key_0').val()) - wds_iterator_0()) >= 0 ? (parseInt(jQuery('#wds_current_image_key_0').val()) - wds_iterator_0()) % wds_data_0.length : wds_data_0.length - 1, wds_data_0, false, "left");
 return false;
 });
 }
@@ -1457,29 +1291,7 @@ wds_play_pause = 1;
 var current_key = jQuery('#wds_current_image_key_0').val();
 var current_slide_layers_count = wds_data_0[current_key]["slide_layers_count"];
 setTimeout(function() {
-for (var k = 0; k < current_slide_layers_count; k++) {
-clearTimeout(wds_clear_layers_effects_out_0[current_key][k]);
-}
-}, wds_duration_for_clear_effects_0);
-window.clearInterval(wds_playInterval_0);
-jQuery(".wds_slideshow_play_pause_0").attr("title", "Play");
-jQuery(".wds_slideshow_play_pause_0").attr("class", "wds_ctrl_btn_0 wds_slideshow_play_pause_0 fa fa-play");
-if (0) {
-document.getElementById("wds_audio_0").pause();
-}
-if (typeof jQuery().stop !== 'undefined') {
-if (jQuery.isFunction(jQuery().stop)) {
-}
-}
-}
-}
-/* Mouswheel navigation.*/
-if (0) {
-jQuery('.wds_slide_container_0').bind(mousewheelevt, function(e) {
-var evt = window.event || e; /* Equalize event object.*/
-evt = evt.originalEvent ? evt.originalEvent : evt; /* Convert to originalEvent if possible.*/
-var delta = evt.detail ? evt.detail*(-40) : evt.wheelDelta; /* Check for detail first, because it is used by Opera and FF.*/
-if (delta > 0) {
+for (var k = 0; k < current_slide_layers_count; k++) { clearTimeout(wds_clear_layers_effects_out_0[current_key][k]); } }, wds_duration_for_clear_effects_0); window.clearInterval(wds_playInterval_0); jQuery(".wds_slideshow_play_pause_0").attr("title", "Play"); jQuery(".wds_slideshow_play_pause_0").attr("class", "wds_ctrl_btn_0 wds_slideshow_play_pause_0 fa fa-play"); if (0) { document.getElementById("wds_audio_0").pause(); } if (typeof jQuery().stop !== 'undefined') { if (jQuery.isFunction(jQuery().stop)) { } } } } /* Mouswheel navigation.*/ if (0) { jQuery('.wds_slide_container_0').bind(mousewheelevt, function(e) { var evt = window.event || e; /* Equalize event object.*/ evt = evt.originalEvent ? evt.originalEvent : evt; /* Convert to originalEvent if possible.*/ var delta = evt.detail ? evt.detail*(-40) : evt.wheelDelta; /* Check for detail first, because it is used by Opera and FF.*/ if (delta > 0) {
 /* Scroll up.*/
 wds_change_image_0(parseInt(jQuery('#wds_current_image_key_0').val()), (parseInt(jQuery('#wds_current_image_key_0').val()) - wds_iterator_0()) >= 0 ? (parseInt(jQuery('#wds_current_image_key_0').val()) - wds_iterator_0()) % wds_data_0.length : wds_data_0.length - 1, wds_data_0, false, "left");
 }
@@ -1611,93 +1423,7 @@ if (0) {
 document.getElementById("wds_audio_0").play();
 }
 var next_slide_layers_count = wds_data_0[wds_current_key_0]["slide_layers_count"];
-for (var i = 0; i < next_slide_layers_count; i++) {
-wds_set_layer_effect_out_0(i, wds_current_key_0);
-}
-}
-/* Effects in part.*/		
-function wds_set_layer_effect_in_0(j, key) {
-var cout;
-wds_clear_layers_effects_in_0[key][j] = setTimeout(function(){
-cout = jQuery('#wds_0_slide' + wds_data_0[key]["id"] + '_layer' + wds_data_0[key]["layer_" + j + "_id"]);
-if (wds_data_0[key]["layer_" + j + "_type"] != 'social') {
-cout.css('-webkit-animation-duration' , wds_data_0[key]["layer_" + j + "_duration_eff_in"] / 1000 + 's').css('animation-duration' , wds_data_0[key]["layer_" + j + "_duration_eff_in"] / 1000 + 's');			 
-cout.removeClass().addClass( wds_data_0[key]["layer_" + j + "_layer_effect_in"] + ' wds_animated');
-jQuery('#wds_0_slide' + wds_data_0[key]["id"] + '_layer' + wds_data_0[key]["layer_" + j + "_id"]).addClass(jQuery('#wds_0_slide' + wds_data_0[key]["id"] + '_layer' + wds_data_0[key]["layer_" + j + "_id"]).data("class"));
-}
-else {
-cout.css('-webkit-animation-duration' , wds_data_0[key]["layer_" + j + "_duration_eff_in"] / 1000 + 's').css('animation-duration' , wds_data_0[key]["layer_" + j + "_duration_eff_in"] / 1000 + 's');	
-cout.removeClass().addClass( wds_data_0[key]["layer_" + j + "_layer_effect_in"] + ' fa fa-' + wds_data_0[key]["layer_" + j + "_social_button"] + ' wds_animated');
-}
-/* Play video on layer in.*/
-if (wds_data_0[key]["layer_" + j + "_type"] == "video") {
-if (wds_data_0[key]["layer_" + j + "_video_autoplay"] == "on") {
-cout.find("iframe").each(function () {
-jQuery(this)[0].contentWindow.postMessage('{"event":"command","func":"playVideo","args":""}', '*');
-jQuery(this)[0].contentWindow.postMessage('{ "method": "play" }', "*");
-});
-}
-}
-var iteration_count = wds_data_0[key]["layer_" + j + "_infinite_in"] == 0 ? 'infinite' : wds_data_0[key]["layer_" + j + "_infinite_in"];
-cout.css(
-'-webkit-animation-iteration-count', iteration_count
-).css(
-'animation-iteration-count', iteration_count
-);
-}, wds_data_0[key]["layer_" + j + "_start"]);
-}
-/* Effects out part.*/
-function wds_set_layer_effect_out_0(i, key) {
-var cout;
-wds_clear_layers_effects_out_0[key][i] = setTimeout(function() {
-cout = jQuery('#wds_0_slide' + wds_data_0[key]["id"] + '_layer' + wds_data_0[key]["layer_" + i + "_id"]);
-if (wds_data_0[key]["layer_" + i + "_layer_effect_out"] != 'none') {
-if (wds_data_0[key]["layer_" + i + "_type"] != 'social') {
-cout.css('-webkit-animation-duration' , wds_data_0[key]["layer_" + i + "_duration_eff_out"] / 1000 + 's').css('animation-duration' , wds_data_0[key]["layer_" + i + "_duration_eff_out"] / 1000 + 's');				 
-cout.removeClass().addClass( wds_data_0[key]["layer_" + i + "_layer_effect_out"] + ' wds_animated');
-}
-else {
-cout.css('-webkit-animation-duration' , wds_data_0[key]["layer_" + i + "_duration_eff_out"] / 1000 + 's').css('animation-duration' , wds_data_0[key]["layer_" + i + "_duration_eff_out"] / 1000 + 's');
-cout.removeClass().addClass( wds_data_0[key]["layer_" + i + "_layer_effect_out"] + ' fa fa-' + wds_data_0[key]["layer_" + i + "_social_button"] + ' wds_animated');
-}
-}
-var iteration_count = wds_data_0[key]["layer_" + i + "_infinite_out"] == 0 ? 'infinite' : wds_data_0[key]["layer_" + i + "_infinite_out"];
-cout.css(
-'-webkit-animation-iteration-count', iteration_count
-).css(
-'animation-iteration-count', iteration_count
-);
-}, wds_data_0[key]["layer_" + i + "_end"]);
-}
-function play_0() {
-if ('none' != 'none') {
-if (1 || jQuery('.wds_ctrl_btn_0').hasClass('fa-pause')) {
-jQuery(".wds_line_timer_0").animate({
-width: "100%"
-}, {
-duration: 5000,
-specialEasing: {width: "linear"}
-});
-}
-}
-window.clearInterval(wds_playInterval_0);
-/* Play.*/
-wds_playInterval_0 = setInterval(function () {
-var curr_img_index = parseInt(jQuery('#wds_current_image_key_0').val());
-if ('1' == 0) {
-if (curr_img_index == 3) {
-return false;
-}
-}
-var iterator = 1;
-var img_index = (parseInt(jQuery('#wds_current_image_key_0').val()) + iterator) % wds_data_0.length;
-if (0) {
-iterator = Math.floor((wds_data_0.length - 1) * Math.random() + 1);
-}
-else if (0) {
-if (wds_global_btn_0 == "left") {
-iterator = -1;
-img_index = (parseInt(jQuery('#wds_current_image_key_0').val()) + iterator) >= 0 ? (parseInt(jQuery('#wds_current_image_key_0').val()) + iterator) % wds_data_0.length : wds_data_0.length - 1;
+for (var i = 0; i < next_slide_layers_count; i++) { wds_set_layer_effect_out_0(i, wds_current_key_0); } } /* Effects in part.*/ function wds_set_layer_effect_in_0(j, key) { var cout; wds_clear_layers_effects_in_0[key][j] = setTimeout(function(){ cout = jQuery('#wds_0_slide' + wds_data_0[key]["id"] + '_layer' + wds_data_0[key]["layer_" + j + "_id"]); if (wds_data_0[key]["layer_" + j + "_type"] != 'social') { cout.css('-webkit-animation-duration' , wds_data_0[key]["layer_" + j + "_duration_eff_in"] / 1000 + 's').css('animation-duration' , wds_data_0[key]["layer_" + j + "_duration_eff_in"] / 1000 + 's'); cout.removeClass().addClass( wds_data_0[key]["layer_" + j + "_layer_effect_in"] + ' wds_animated'); jQuery('#wds_0_slide' + wds_data_0[key]["id"] + '_layer' + wds_data_0[key]["layer_" + j + "_id"]).addClass(jQuery('#wds_0_slide' + wds_data_0[key]["id"] + '_layer' + wds_data_0[key]["layer_" + j + "_id"]).data("class")); } else { cout.css('-webkit-animation-duration' , wds_data_0[key]["layer_" + j + "_duration_eff_in"] / 1000 + 's').css('animation-duration' , wds_data_0[key]["layer_" + j + "_duration_eff_in"] / 1000 + 's'); cout.removeClass().addClass( wds_data_0[key]["layer_" + j + "_layer_effect_in"] + ' fa fa-' + wds_data_0[key]["layer_" + j + "_social_button"] + ' wds_animated'); } /* Play video on layer in.*/ if (wds_data_0[key]["layer_" + j + "_type"] == "video") { if (wds_data_0[key]["layer_" + j + "_video_autoplay"] == "on") { cout.find("iframe").each(function () { jQuery(this)[0].contentWindow.postMessage('{"event":"command","func":"playVideo","args":""}', '*'); jQuery(this)[0].contentWindow.postMessage('{ "method": "play" }', "*"); }); } } var iteration_count = wds_data_0[key]["layer_" + j + "_infinite_in"] == 0 ? 'infinite' : wds_data_0[key]["layer_" + j + "_infinite_in"]; cout.css( '-webkit-animation-iteration-count', iteration_count ).css( 'animation-iteration-count', iteration_count ); }, wds_data_0[key]["layer_" + j + "_start"]); } /* Effects out part.*/ function wds_set_layer_effect_out_0(i, key) { var cout; wds_clear_layers_effects_out_0[key][i] = setTimeout(function() { cout = jQuery('#wds_0_slide' + wds_data_0[key]["id"] + '_layer' + wds_data_0[key]["layer_" + i + "_id"]); if (wds_data_0[key]["layer_" + i + "_layer_effect_out"] != 'none') { if (wds_data_0[key]["layer_" + i + "_type"] != 'social') { cout.css('-webkit-animation-duration' , wds_data_0[key]["layer_" + i + "_duration_eff_out"] / 1000 + 's').css('animation-duration' , wds_data_0[key]["layer_" + i + "_duration_eff_out"] / 1000 + 's'); cout.removeClass().addClass( wds_data_0[key]["layer_" + i + "_layer_effect_out"] + ' wds_animated'); } else { cout.css('-webkit-animation-duration' , wds_data_0[key]["layer_" + i + "_duration_eff_out"] / 1000 + 's').css('animation-duration' , wds_data_0[key]["layer_" + i + "_duration_eff_out"] / 1000 + 's'); cout.removeClass().addClass( wds_data_0[key]["layer_" + i + "_layer_effect_out"] + ' fa fa-' + wds_data_0[key]["layer_" + i + "_social_button"] + ' wds_animated'); } } var iteration_count = wds_data_0[key]["layer_" + i + "_infinite_out"] == 0 ? 'infinite' : wds_data_0[key]["layer_" + i + "_infinite_out"]; cout.css( '-webkit-animation-iteration-count', iteration_count ).css( 'animation-iteration-count', iteration_count ); }, wds_data_0[key]["layer_" + i + "_end"]); } function play_0() { if ('none' != 'none') { if (1 || jQuery('.wds_ctrl_btn_0').hasClass('fa-pause')) { jQuery(".wds_line_timer_0").animate({ width: "100%" }, { duration: 5000, specialEasing: {width: "linear"} }); } } window.clearInterval(wds_playInterval_0); /* Play.*/ wds_playInterval_0 = setInterval(function () { var curr_img_index = parseInt(jQuery('#wds_current_image_key_0').val()); if ('1' == 0) { if (curr_img_index == 3) { return false; } } var iterator = 1; var img_index = (parseInt(jQuery('#wds_current_image_key_0').val()) + iterator) % wds_data_0.length; if (0) { iterator = Math.floor((wds_data_0.length - 1) * Math.random() + 1); } else if (0) { if (wds_global_btn_0 == "left") { iterator = -1; img_index = (parseInt(jQuery('#wds_current_image_key_0').val()) + iterator) >= 0 ? (parseInt(jQuery('#wds_current_image_key_0').val()) + iterator) % wds_data_0.length : wds_data_0.length - 1;
 }
 }
 wds_change_image_0(parseInt(jQuery('#wds_current_image_key_0').val()), img_index, wds_data_0);
@@ -1743,10 +1469,10 @@ circle_timer_animate_0.stop();
 });
 </script>
 <h3 class="widget-title">Nightly visits to the Homeless</h3>
-<p>Mission for the Homeless is&nbsp;a 501 (c)(3) nonprofit charitable corporation. We distribute blankets, food, clothing and tents to the homeless seven nights a week in Oakland, California. We visit approximately&nbsp;120&nbsp;homeless people every night. Read about&nbsp;the lives of some of these&nbsp;people in the cover story of the&nbsp;August 6, 2014&nbsp;issue of the <a href="http://www.eastbayexpress.com/general/flash/2014/08-06-2014/">East Bay Express</a>.&nbsp;</p>
+Mission for the Homeless is a 501 (c)(3) nonprofit charitable corporation. We distribute blankets, food, clothing and tents to the homeless seven nights a week in Oakland, California. We visit approximately 120 homeless people every night. Read about the lives of some of these people in the cover story of the August 6, 2014 issue of the <a href="http://www.eastbayexpress.com/general/flash/2014/08-06-2014/">East Bay Express</a>.
 <h3 class="widget-title">Plight of the Homeless</h3>
-<p>The plight of the homeless in Oakland is becoming more evident as the economy has made it more difficult for those “fallen through the cracks”. Often stereotyped as annoying, categorized as worthless, the homeless easily become objects of neglect and abuse. If family, society and church remain uninterested and unconvinced as to the inherent dignity of these people, we continue to recognize them without judgment or condemnation. &nbsp;The question that remains is how to address these issues.</p>
+The plight of the homeless in Oakland is becoming more evident as the economy has made it more difficult for those “fallen through the cracks”. Often stereotyped as annoying, categorized as worthless, the homeless easily become objects of neglect and abuse. If family, society and church remain uninterested and unconvinced as to the inherent dignity of these people, we continue to recognize them without judgment or condemnation.  The question that remains is how to address these issues.
 <h3 class="widget-title">Nightly Contact Since January 1999</h3>
-<p>We visit homeless people on the street on a one to one basis. We know of no other shelter or homeless service in Oakland that attempts this type of outreach. The focus has always been providing basic necessities like food, blankets and warm clothing. One of our inspirations was a local organization called <a href="http://ebfnb.org/">Food Not Bombs</a> which provides a hearty hot meal, like lentils, served daily in People’s Park area of Berkeley. We ask local Oakland businesses and their patrons for donations; sometimes bakeries donate bread, and people have contributed clothing and blankets, sometimes even small bowls of food. We pack up the food, clothing and blankets and make them available that night.</p>
+We visit homeless people on the street on a one to one basis. We know of no other shelter or homeless service in Oakland that attempts this type of outreach. The focus has always been providing basic necessities like food, blankets and warm clothing. One of our inspirations was a local organization called <a href="http://ebfnb.org/">Food Not Bombs</a> which provides a hearty hot meal, like lentils, served daily in People’s Park area of Berkeley. We ask local Oakland businesses and their patrons for donations; sometimes bakeries donate bread, and people have contributed clothing and blankets, sometimes even small bowls of food. We pack up the food, clothing and blankets and make them available that night.
 <h3 class="widget-title">Providing Basic Necessities, Building Trust, and Offering One-on-One Personal Assistance</h3>
-<p>What does it take to improve a life? Many lack money, housing, food and personal assistance. Very few programs exist in Oakland, and there are obstacles in accessing them. Since January of 1999, our outreach has been an ear to homeless people, treating them as individuals and gaining their trust. This makes them feel that there is someone in the world that cares about them and values them as individuals.</p>
+What does it take to improve a life? Many lack money, housing, food and personal assistance. Very few programs exist in Oakland, and there are obstacles in accessing them. Since January of 1999, our outreach has been an ear to homeless people, treating them as individuals and gaining their trust. This makes them feel that there is someone in the world that cares about them and values them as individuals.
